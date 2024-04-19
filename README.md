@@ -69,6 +69,8 @@
 
 <div align="left"> 
 
+<img align="left"  height="80" width="80" src="https://github.com/LaizaLP/LaizaLP/assets/166245037/fdc69448-afe7-44e5-ab81-28eb3b445f6d">
+
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
 
 <img align="left"  height="80" width="80" src="https://github.com/LaizaLP/LaizaLP/assets/166245037/cef9782d-baae-42c4-a2d1-93a83187b578">
