@@ -40,8 +40,6 @@
 <div align="left"> 
 <img align="left" height="84" width="84" src="https://github.com/LaizaLP/LaizaLP/assets/166245037/2e1a6db5-a587-48b7-b312-aa442c540853">
 
-<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
-
 <img align="left"  height="80" width="80" src="https://github.com/LaizaLP/LaizaLP/assets/166245037/18550039-6442-4f7e-acbf-f07bb81df7b8">
 
 <img align="left"  height="80" width="80" src="https://github.com/LaizaLP/LaizaLP/assets/166245037/8518553c-d75d-4ebe-95d8-53d29d7eb3cb">
