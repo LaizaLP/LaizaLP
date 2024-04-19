@@ -54,6 +54,8 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/LaizaLP/LaizaLP/assets/166245037/912787a5-caba-45b2-af54-754cf63b07bb">
 
+<img align="left"  height="80" width="80" src="https://github.com/LaizaLP/LaizaLP/assets/166245037/c1412a08-365d-4131-8a90-d82eb9e2fa16">
+
 </div>
 
 <br>
