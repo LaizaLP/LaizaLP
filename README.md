@@ -38,6 +38,7 @@
 
 ### Main skills:
 <div align="left"> 
+  
 <img align="left" height="84" width="84" src="https://github.com/LaizaLP/LaizaLP/assets/166245037/2e1a6db5-a587-48b7-b312-aa442c540853">
 
 <img align="left"  height="80" width="80" src="https://github.com/LaizaLP/LaizaLP/assets/166245037/18550039-6442-4f7e-acbf-f07bb81df7b8">
