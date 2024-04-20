@@ -19,7 +19,7 @@
 </a>
 
 
-<a href="mailto:laizaperia08@hotmail.com">
+<a href="mailto:laiza.peria@unesp.br">
 <img align="center"  height="80" width="80" src="https://github.com/LaizaLP/LaizaLP/assets/166245037/83ab77e8-ee9c-4313-b268-fb55a164c115">
 </a>
 
